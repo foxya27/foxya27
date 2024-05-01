@@ -20,7 +20,7 @@ I'm just a Russian guy who likes to play games and who has his own minecraft ser
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
 - 🔭 Now I'm working on my own Minecraft server "DreamFox"  
   
@@ -31,7 +31,7 @@ I'm just a Russian guy who likes to play games and who has his own minecraft ser
 - ⚡ Fun fact: miniking1000 not axolotl.  
 
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="100%">
 
 
 
