@@ -83,5 +83,4 @@ I'm just a Russian guy who likes to play games and who has his own minecraft ser
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
